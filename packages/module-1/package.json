@@ -1,0 +1,12 @@
+{
+	"name": "module-1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"@beisen-cmps/italent-upload": "^1.0.0"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
